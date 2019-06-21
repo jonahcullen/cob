@@ -289,4 +289,4 @@ $ sh runMaizeOverlap.sh
 ## Using COB
 Now that COB has access to camoco datasets, you can use the interactive browser to explore the data! Restart the cob server, open your favorite
 web browser, and go to `http://127.0.0.1:50000`.
-![](https://imgur.com/a/J6wM9AI)
+![](https://i.imgur.com/tCEuzHK.png)
